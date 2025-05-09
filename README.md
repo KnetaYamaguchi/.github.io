@@ -74,4 +74,4 @@
 ## 7. お問い合わせ
 
 * 本規約に関するお問い合わせは、以下のメールアドレスまでお願いいたします。
-* メールアドレス: [support@example.com](mailto:support@example.com)
+* メールアドレス: [Hiroyuke.kirinuke@gmail.com](mailto:Hiroyuke.kirinuke@gmail.com)
